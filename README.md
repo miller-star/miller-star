@@ -16,10 +16,6 @@
 
 <tr><td>
 
-<div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=Fleezesd&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-
 </td></tr>
 
 ![miller-star's GitHub stats](https://github-readme-stats.vercel.app/api?username=miller-star&show_icons=true&theme=radical)
